@@ -1,3 +1,3 @@
 # demo
 first git repository
-author = siddhi
+author = siddhi mohol
